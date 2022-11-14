@@ -1,0 +1,13 @@
+body {
+    background-color: #d18be8;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+h1 {
+    text-align:center;
+    font-size: 40px;
+    background-color: #9d14c9;
+    color: #FFF;
+}
+li {
+    font-size: 30px;
+}

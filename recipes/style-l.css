@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+h1 {
+    text-align: center;
+}
+img {
+    width: 400px;
+    height: auto;
+}
+p, li {
+    font-size: 20px;
+}
+.bold {
+    font-weight: bold;
+}
